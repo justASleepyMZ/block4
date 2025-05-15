@@ -22,5 +22,6 @@ pip install -r requirements.txt
 ollama run llama3
 
 python app.py
+
 ![image](https://github.com/user-attachments/assets/6d4c4c2f-07da-4364-ba88-2ee712a64bdf)
 ![image](https://github.com/user-attachments/assets/6a619293-6919-473b-9dbd-572e1eb6ec00)
